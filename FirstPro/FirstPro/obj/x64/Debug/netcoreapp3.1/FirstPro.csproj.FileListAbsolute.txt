@@ -24,3 +24,4 @@ F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcorea
 F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.dll
 F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.pdb
 F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.genruntimeconfig.cache
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.csproj.AssemblyReference.cache
