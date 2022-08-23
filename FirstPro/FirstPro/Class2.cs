@@ -8,7 +8,7 @@ namespace FirstPro
     {
         public static void funClass2()
         {
-            Console.WriteLine("hello world");
+            Console.WriteLine("hello world 88888888888888888888888");
         }
     }
 }
