@@ -11,3 +11,17 @@ F:\GitProject\客户端\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\Fi
 F:\GitProject\客户端\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.dll
 F:\GitProject\客户端\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.pdb
 F:\GitProject\客户端\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.genruntimeconfig.cache
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\bin\x64\Debug\netcoreapp3.1\FirstPro.exe
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\bin\x64\Debug\netcoreapp3.1\FirstPro.deps.json
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\bin\x64\Debug\netcoreapp3.1\FirstPro.runtimeconfig.json
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\bin\x64\Debug\netcoreapp3.1\FirstPro.runtimeconfig.dev.json
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\bin\x64\Debug\netcoreapp3.1\FirstPro.dll
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\bin\x64\Debug\netcoreapp3.1\FirstPro.pdb
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.AssemblyInfoInputs.cache
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.AssemblyInfo.cs
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.csproj.CoreCompileInputs.cache
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.dll
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.pdb
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.genruntimeconfig.cache
+F:\GitProject\客户端\分支2\testgit\FirstPro\FirstPro\obj\x64\Debug\netcoreapp3.1\FirstPro.csproj.AssemblyReference.cache
