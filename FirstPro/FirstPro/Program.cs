@@ -12,6 +12,7 @@ namespace FirstPro
 
                 Console.WriteLine("hello you will win");
             });
+            Class1.fun();
             Console.Read();
         }
     }
