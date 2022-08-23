@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
+      "projectUniqueName": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
       "projectName": "FirstPro",
-      "projectPath": "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
+      "projectPath": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\obj\\",
+      "outputPath": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
