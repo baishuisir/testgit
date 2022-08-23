@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "IWp7oupImpkLETHmNJyS4tR8LDje9tHJxLR9xXxJkhLiGPmyQJtoTUCURuEBOYAqTVnIFpvBUAxNwB0GZTlzSg==",
   "success": true,
   "projectFilePath": "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
+=======
+  "dgSpecHash": "hlJZyPOUhvEfB/qi0SsPXe9O9jSMfFm3GpZT5gFHsC57wLOtqXF/E4eMXAuddb6lpZnSM2hXgvklIobv46rsMw==",
+  "success": true,
+  "projectFilePath": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
+>>>>>>> remotes/origin/dev1
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "F:\\GitProject\\客户端\\分支2\\testgit\\FirstPro\\FirstPro\\obj\\",
+=======
+    "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj": {}
+  },
+  "projects": {
+    "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
+        "projectName": "FirstPro",
+        "projectPath": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\FirstPro.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "F:\\GitProject\\客户端\\新建文件夹\\testgit\\FirstPro\\FirstPro\\obj\\",
+>>>>>>> remotes/origin/dev1
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
