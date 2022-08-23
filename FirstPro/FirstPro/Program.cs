@@ -15,6 +15,7 @@ namespace FirstPro
             Class1.fun();
             Class2.funClass2();
             Console.WriteLine("*********");
+            Console.WriteLine("分支1修改的");//分支1修改
             Console.Read();
         }
     }
