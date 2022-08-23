@@ -9,6 +9,7 @@ namespace FirstPro
         public static void fun()
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("hello world 分支1添加 0.51");//分支1添加 0.51
         }
     }
 }
