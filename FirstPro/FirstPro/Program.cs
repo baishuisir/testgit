@@ -15,6 +15,7 @@ namespace FirstPro
             Class1.fun();
             Class2.funClass2();
             Console.WriteLine("*********");
+            Console.WriteLine("master修改的");//master修改
             Console.Read();
         }
     }
