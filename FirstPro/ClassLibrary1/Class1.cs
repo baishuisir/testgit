@@ -8,5 +8,9 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        public static void hh()
+        {
+            Console.WriteLine("2222");
+        }
     }
 }

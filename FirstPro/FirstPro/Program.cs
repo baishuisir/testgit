@@ -21,6 +21,7 @@ namespace FirstPro
             Console.WriteLine("分支1修改的再次xxxxxxx");//分支1修改
             Console.WriteLine("===================");//分支1修改
             Console.WriteLine("2个项目");//
+            Console.WriteLine("忽略文件");//
             Console.Read();
         }
     }
