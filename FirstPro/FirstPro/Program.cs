@@ -22,6 +22,7 @@ namespace FirstPro
             Console.WriteLine("===================");//分支1修改
             Console.WriteLine("2个项目");//
             Console.WriteLine("忽略文件");//
+            Console.WriteLine("忽略文件1111111111");//
             Console.Read();
         }
     }
