@@ -13,9 +13,11 @@ namespace FirstPro
                 Console.WriteLine("hello you will win");
             });
             Class1.fun();
-            Class2.funClass2();
             Console.WriteLine("*********");
-            Console.WriteLine("分支1修改的,master修改的");//分支1修改 and master
+
+            Console.WriteLine("class2删除了");
+
+            Console.WriteLine("分支1修改的");//分支1修改
             Console.WriteLine("分支1修改的再次xxxxxxx");//分支1修改
             Console.Read();
         }
